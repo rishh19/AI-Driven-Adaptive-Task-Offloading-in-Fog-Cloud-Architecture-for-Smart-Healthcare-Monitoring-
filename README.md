@@ -112,7 +112,7 @@ The system is evaluated based on:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/AI-Driven-Adaptive-Task-Offloading-Fog-Cloud-Healthcare.git
+git clone https://github.com/rishh19/AI-Driven-Adaptive-Task-Offloading-Fog-Cloud-Healthcare.git
 cd AI-Driven-Adaptive-Task-Offloading-Fog-Cloud-Healthcare
 ```
 
