@@ -50,19 +50,19 @@ The system follows a **three-layer architecture**:
 
 The task scheduling problem is modeled using **Reinforcement Learning (Q-Learning)**.
 
-### 🔹 State (S)
+###  State (S)
 
 * Network latency
 * Node energy availability
 * CPU requirement
 * Task deadline
 
-### 🔹 Action (A)
+###  Action (A)
 
 * Execute task at **Fog node**
 * Offload task to **Cloud server**
 
-### 🔹 Reward Function
+###  Reward Function
 
 R = -(Latency + Energy Consumption)
 
