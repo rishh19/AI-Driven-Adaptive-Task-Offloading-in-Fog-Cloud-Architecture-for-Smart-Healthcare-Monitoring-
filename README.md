@@ -93,22 +93,6 @@ The system is evaluated based on:
 
 ---
 
-## 📊 Visualizations
-
-### ⏱️ Latency Comparison
-
-![Latency](latency_comparison.png)
-
-### ⚡ Energy Consumption Comparison
-
-![Energy](energy_fixed.png)
-
-### 🚨 SLA Violation Analysis
-
-![SLA](sla_violation.png)
-
----
-
 ## 📁 Project Structure
 
 ```
