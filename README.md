@@ -1,8 +1,8 @@
-# 🧠 AI-Driven Adaptive Task Offloading in Fog-Cloud Architecture for Smart Healthcare Monitoring
+#  AI-Driven Adaptive Task Offloading in Fog-Cloud Architecture for Smart Healthcare Monitoring
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project presents an **AI-driven adaptive task offloading framework** for smart healthcare systems using a **fog-cloud architecture**.
 
@@ -16,7 +16,7 @@ To overcome these challenges, this project implements an intelligent scheduling 
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Minimize **task response time (latency)**
 * Reduce **energy consumption**
@@ -25,7 +25,7 @@ To overcome these challenges, this project implements an intelligent scheduling 
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 The system follows a **three-layer architecture**:
 
@@ -46,7 +46,7 @@ The system follows a **three-layer architecture**:
 
 ---
 
-## 🧠 Methodology (Q-Learning Based Scheduling)
+##  Methodology (Q-Learning Based Scheduling)
 
 The task scheduling problem is modeled using **Reinforcement Learning (Q-Learning)**.
 
@@ -73,17 +73,17 @@ The model learns optimal scheduling decisions dynamically through interaction wi
 
 ---
 
-## 📊 Performance Metrics
+##  Performance Metrics
 
 The system is evaluated based on:
 
-* ⏱️ **Task Response Time (Latency)**
-* ⚡ **Energy Consumption**
-* 🚨 **SLA Violation Rate**
+*  **Task Response Time (Latency)**
+*  **Energy Consumption**
+*  **SLA Violation Rate**
 
 ---
 
-## 📈 Results
+##  Results
 
 | Metric             | Improvement |
 | ------------------ | ----------- |
@@ -93,7 +93,7 @@ The system is evaluated based on:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 .
@@ -107,7 +107,7 @@ The system is evaluated based on:
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 Clone the repository:
 
@@ -124,7 +124,7 @@ pip install pandas numpy matplotlib
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 1. Open the Jupyter Notebook:
 
@@ -140,7 +140,7 @@ adaptive_task_offloading.ipynb
 
 ---
 
-## 🔮 Future Work
+##  Future Work
 
 * Extend to **Deep Reinforcement Learning (DRL)**
 * Deploy in real-time healthcare environments
@@ -149,7 +149,7 @@ adaptive_task_offloading.ipynb
 
 ---
 
-## 👨‍💻 Team Members
+##  Team Members
 
 * **Rishav Kumar Shrivastava**
 * **Priyanshu Sekhar Bhuyan**
@@ -157,6 +157,6 @@ adaptive_task_offloading.ipynb
 
 ---
 
-## 📜 License
+##  License
 
 This project is developed for **academic and research purposes**.
