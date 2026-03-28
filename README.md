@@ -150,10 +150,9 @@ adaptive_task_offloading.ipynb
 ---
 
 ##  Team Members
-
-* **Rishav Kumar Shrivastava**
-* **Priyanshu Sekhar Bhuyan**
-* **Vridhi Patnala**
+* **Priyanshu Sekhar Bhuyan 2305148**
+* **Rishav Kumar Shrivastava 2305151**
+* **Vridhi Patnala 2305181** 
 
 ---
 
